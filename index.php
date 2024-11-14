@@ -5,9 +5,9 @@
     +  Iyi programme yakozwe na kirogodye Cony umu programmer wi Burundi yayikoze muri php ariko atesta les   +
     +         conditions yisunze ussd application. kuyikoresha no kuyi modifiant nikuri gusa ntirihishwa      +
     +                                                                                                         +
-    +         Facebook: Fb.me/KIRO.CONY                                                                       +
-    +         Instagram: @kirogodye                                                                           +
-    +         Twitter: @kirogodye98                                                                           +
+    +         Facebook: Kirogodye                                                                       +
+    +         Instagram: Kirogodye                                                                           +
+    +         x: Kirogodye                                                                          +
     +         Github: Kirogodye                                                                               +
     +         Reddit: Kirogodye                                                                               +
     +         Email: kirogodye@mail.com                                                                       +
